@@ -68,11 +68,11 @@ Processed 5 resumes in directory: resumes/
 Results saved to evaluation_report.csv
 
 *Future Improvements
- >>Expand Bias Detection Vocabulary
- >>Advanced Machine Learning Models
- >>Enhanced Resume Parsing
- >>Web Interface Enhancements
- >>Privacy and Security
+ >>Expand Bias Detection Vocabulary,
+ >>Advanced Machine Learning Models,
+ >>Enhanced Resume Parsing,
+ >>Web Interface Enhancements,
+ >>Privacy and Security.
 
 
 
