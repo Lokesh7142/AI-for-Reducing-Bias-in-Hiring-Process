@@ -4,24 +4,24 @@ Short Description :
 An NLP-based system to identify and mitigate biases in job descriptions and resumes. Features include detection of gender, ethnicity, age, personality, and education-related biased language, resume anonymization to protect candidate identity, and skill-based candidate-job matching using semantic similarity algorithms.
 
 FEATURES :
-  >>Bias Detection
-  >>Resume Anonymization
-  >>Skill-Based Candidate Matching
-  >>PDF Processing
-  >>Interactive Interfaces
-  >>Suggestion Generation
-  >>Extensible NLP Pipeline
+  >>Bias Detection,
+  >>Resume Anonymization,
+  >>Skill-Based Candidate Matching,
+  >>PDF Processing,
+  >>Interactive Interfaces,
+  >>Suggestion Generation,
+  >>Extensible NLP Pipeline.
 
 TECHNOLOGIES USED :
-  >>Python
-  >>Natural Language Toolkit (NLTK)
-  >>Regular Expressions (re)
-  >>scikit-learn
-  >>PyPDF2
-  >>Flask
-  >>Tkinter
-  >>Collections (defaultdict)
-  >>ReportLab
+  >>Python,
+  >>Natural Language Toolkit (NLTK),
+  >>Regular Expressions (re),
+  >>scikit-learn,
+  >>PyPDF2,
+  >>Flask,
+  >>Tkinter,
+  >>Collections (defaultdict),
+  >>ReportLab.
 
 *How to Run :
   >>Install dependencies:pip install -r requirements.txt
