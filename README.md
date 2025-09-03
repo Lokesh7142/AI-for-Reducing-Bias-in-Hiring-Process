@@ -24,8 +24,8 @@ TECHNOLOGIES USED :
   >>ReportLab.
 
 *How to Run :
-  >>Install dependencies:pip install -r requirements.txt
-  >>Download NLTK data:import nltk
+  >>Install dependencies:pip install -r requirements.txt ;
+  >>Download NLTK data:import nltk;
                        nltk.download('punkt')
                        nltk.download('stopwords')
   >>Run the command-line interface (CLI):python main.py
